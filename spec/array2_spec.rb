@@ -14,12 +14,3 @@ RSpec.describe Array do
   end
   
 end
-
-=begin
-
-
-In a second, separate example, write an assertion to confirm that ​sally​ is equal to the original array.
-
- 
-  
-=end
